@@ -1,5 +1,5 @@
 # Witam, Jestem Jarosław 👋
-
+![Mój Obrazek](./githubImage2.png)
 Cześć! Nazywam się Jarosław i jestem początkującym inżynierem oprogramowania z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind,.
 
 Niedawno rozpocząłem nową przygodę, zagłębiając się w dynamiczny świat oprogramowania open-source. Jestem podekscytowany możliwością dzielenia się swoją wiedzą i współpracą z innymi programistami, aby tworzyć rozwiązania o realnym wpływie.
