@@ -4,7 +4,7 @@ Cześć! Nazywam się Jarosław i jestem początkującym inżynierem oprogramowa
 
 Niedawno rozpocząłem nową przygodę, zagłębiając się w dynamiczny świat oprogramowania open-source. Jestem podekscytowany możliwością dzielenia się swoją wiedzą i współpracą z innymi programistami, aby tworzyć rozwiązania o realnym wpływie.
 
-Śledź moje aktualizacje i nowe projekty – nie mogę się doczekać, by dzielić się z Tobą swoją podróżą!
+Bądźcie na bieżąco z aktualizacjami dotyczącymi moich najnowszych projektów i wkładu – nie mogę się doczekać, aby podzielić się z Wami moją podróżą!
 
 
 ## 🛠️ Języki i Narzędzia:
