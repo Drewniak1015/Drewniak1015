@@ -1,4 +1,4 @@
-# Hi there, I'm Jarosław 👋
+# Witam, Jestem Jarosław 👋
 
 Cześć! Nazywam się Jarosław i jestem początkującym inżynierem oprogramowania z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind,.
 
