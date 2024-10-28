@@ -6,7 +6,6 @@ Niedawno rozpocząłem nową przygodę, zagłębiając się w dynamiczny świat 
 
 Śledź moje aktualizacje i nowe projekty – nie mogę się doczekać, by dzielić się z Tobą swoją podróżą!
 
----
 
 ## 🛠️ Języki i Narzędzia:
 
@@ -18,7 +17,6 @@ Niedawno rozpocząłem nową przygodę, zagłębiając się w dynamiczny świat 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
 
 ## 📫 Skontaktuj się ze mną:
 
