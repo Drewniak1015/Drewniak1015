@@ -1,7 +1,7 @@
 # Witam, Jestem Jarosław 👋
 ![Mój Obrazek](./githubImage2.png)
 
-👋 Cześć! Nazywam się Jarosław i jestem początkującym proggramistą z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind.
+👋 Cześć! Nazywam się Jarosław i jestem początkującym programistą z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind.
 
 Właśnie wyruszyłem w nową przygodę, eksplorując nieskończone możliwości kreatywności i innowacji. Ekscytuje mnie wizja tworzenia rzeczy, które mają realny wpływ – albo przynajmniej wyglądają fajnie i nie psują się po pierwszym użyciu.
 
