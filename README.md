@@ -1,11 +1,11 @@
 # Witam, Jestem Jarosław 👋
 ![Mój Obrazek](./githubImage2.png)
 
-👋 Cześć! Nazywam się Jarosław i jestem początkującym inżynierem oprogramowania z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind.
+👋 Cześć! Nazywam się Jarosław i jestem początkującym proggramistą z pasją do tworzenia solidnych rozwiązań oraz odkrywania nowych technologii. Przez ostatnie trzy lata intensywnie rozwijałem swoje umiejętności, zdobywając doświadczenie w pracy z różnorodnymi technologiami, takimi jak JavaScript, React, TypeScript, Tailwind.
 
-Niedawno rozpocząłem nową przygodę, zagłębiając się w dynamiczny świat oprogramowania open-source. Jestem podekscytowany możliwością dzielenia się swoją wiedzą i współpracą z innymi programistami, aby tworzyć rozwiązania o realnym wpływie.
+Właśnie wyruszyłem w nową przygodę, eksplorując nieskończone możliwości kreatywności i innowacji. Ekscytuje mnie wizja tworzenia rzeczy, które mają realny wpływ – albo przynajmniej wyglądają fajnie i nie psują się po pierwszym użyciu.
 
-Bądźcie na bieżąco z aktualizacjami dotyczącymi moich najnowszych projektów i wkładu – nie mogę się doczekać, aby podzielić się z Wami moją podróżą!
+Śledźcie moje kolejne kroki, bo sam nie wiem, dokąd mnie to zaprowadzi – ale na pewno będzie ciekawie. 🚀
 
 
 ## 🛠️ Języki i Narzędzia:
@@ -20,6 +20,7 @@ Bądźcie na bieżąco z aktualizacjami dotyczącymi moich najnowszych projektó
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📫 Skontaktuj się ze mną:
 
